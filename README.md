@@ -1,3 +1,4 @@
 -> Demo
 
-Learning GitHub
+*Learning GitHub
+*Estou fazendo o curso Discover da Rocketseat
